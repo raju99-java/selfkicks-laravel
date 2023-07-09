@@ -1,0 +1,194 @@
+/* <!--------------------------media-query-for-mobile------------------------------> */
+@media only screen and (max-width: 767px) {
+    .mobile-hide{
+        display: none;
+    }
+    .mobile-upper-gap{
+        margin-top: 4rem;
+    }   
+    /*form gap*/
+    .form-gapping {
+        padding: 35px 30px;
+    }
+    /*footer*/
+    .footer-widget{
+        margin-bottom: 10px;
+    }
+    /*form-title*/
+    .custom-white-title {
+        font-size: 25px;
+        line-height: 28px;
+    }
+    .custom-black-title {
+        font-size: 25px;
+        line-height: 28px; 
+    }
+    .form-heading > p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    /* button */
+    .btn-purple {
+        font-size: 14px;
+        line-height: 32px;
+        padding: 2px 18px;
+    }
+    /*********before login index********/
+    .big-banner {
+        min-height: 300px;
+    }
+    .big-content h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .big-content h3 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .banner-sub-content {
+        margin: 0px 0px 0px;
+    }
+    .get-started-btn {
+        width: 50%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .big-content {
+        padding: 100px 0px 100px;
+    }
+    .banner-below-div-content-area {
+        text-align: center;
+    }
+    .banner-below-div-content-area h3 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .banner-below-div-content-area p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .main-img {
+        transform: translateX(0%);
+    }
+    .bottom-box {
+        bottom: -10%;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 85%;
+    }
+    .custom-accordion {
+        font-size: 18px;
+        padding: 18px 18px;
+    }
+    .panel {
+        padding: 18px;
+    }
+    .panel p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    /*********slider**********/
+    .owl-new-slider .item img {
+        height: 350px;
+    }
+    .caption {
+        top: 10%;
+        left: 0%;
+        width: 100%;
+        text-align: center;
+    }
+    .banner-heading {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .banner-paragraph {
+        font-size: 14px;
+        line-height: 30px;
+        text-align: center;
+        max-width: 100%;
+        padding: 0px 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .slider-btn-one {
+        font-size: 15px;
+        padding: 5px 25px;
+        line-height: 35px;
+    }
+    .slider-btn-two {
+        font-size: 15px;
+        padding: 5px 25px;
+        line-height: 35px;
+    }
+    .slider-button .btn span {
+        font-size: 16px;
+        margin-right: 8px;
+    }
+    .owl-theme .custom-nav {
+        top: 18%;
+    }
+    .video-item-content {
+        font-size: 14px;
+    }
+    .video-item-content-two {
+        font-size: 14px;
+    } 
+    .bread-content{
+        text-align: center;
+    } 
+    .bread-content-menu ul {
+        text-align: center;
+    }
+    .member-ship-option {
+        margin-bottom: 1.5rem;
+    }
+    .dashboard-bg {
+        padding: 30px 20px 15px;
+    }
+    .user-btn {
+        margin-top: 1rem;
+    }
+    .apply-now-item {
+        display: contents;
+    }
+    .apply-now-item .vfx-item-btn-danger {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .icon-play {
+        height: 60px;
+        width: 60px;
+        line-height: 62px;
+        font-size: 25px;
+    }
+    .video-post-date .video-posts-author {
+        font-size: 12px;
+    }
+    .btn-watchlist a {
+        padding: 6px 8px;
+        font-size: 12px;
+        margin-right: 0px;
+    }  
+    .plan-pay-btn {
+        position: absolute;
+        bottom: 65px;
+        left: 50%;
+    }
+
+}
+/* <!--------------------------media-query-for-desktop------------------------------> */
+@media only screen and (min-width: 768px) {
+    .desktop-hide{
+        display: none;
+    }
+    .padding-desktop-remove{
+        padding: 0px;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+    .plan-pay-btn {
+        position: absolute;
+        bottom: 80px;
+        left: 25%;
+    }
+}

@@ -1,0 +1,33 @@
+1.The user interface will be same as Netflix
+2.Home page will be consisting of login section, some dynamic banner section 
+3.In logged in situation different category of video carousel will show on home page
+4.User need to register using their mobile number otp verification
+5.No registration without referral code
+6.After login user will be prompted to take subscription
+7.User can pay for a subscription on for 365 days.
+oThere will be 2 type of subscription – in one type of package users can only watch videos, in other type of package users can earn points with watching prime videos
+8.Videos will be hosted on a 3rd party video server like vimeo
+9.There will be two time based/prime video section(which will be live on a particular time only – In daily basis) – daily 2 videos in a day-morning and evening with initial video ad.
+10.There will be a point system
+oUsers will get points on joining other users by using their referral codes
+oOnly premium users/type 2 paid users can refer and earn points
+oType 2 users will get points for watching each prime videos(one time)
+oUpper level users will get extra percentage of point from the earning of below level users earning.(only earning from video watch points., no earning in below level referral points)
+11.In single video play page there will be a description section and related videos section
+12.In subscription expire user will not able to access videos
+13.User dashboard
+oEarning Point history with each point count
+oTotal point
+oKyc details
+oCurrent plan
+14.Redeem
+oIf threshold value crossed user can submit redeem request
+15.In footer section all the informative static pages will be there
+oAbout us
+oContact us
+oFaq
+oInvestors
+oPrivacy policy
+oTerms and conditions
+oReturn and refund policy
+oE.t.c

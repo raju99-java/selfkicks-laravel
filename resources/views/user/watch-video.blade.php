@@ -1,0 +1,4 @@
+
+
+{!! $video->embeded_video !!}
+
